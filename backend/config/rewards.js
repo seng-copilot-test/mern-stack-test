@@ -21,3 +21,5 @@ module.exports = {
   trackReferralActivity,
   accumulateRewardPoints
 };
+
+// added code throught inline chat option of copilot
